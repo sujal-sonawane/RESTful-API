@@ -1,12 +1,3 @@
-RESTful API - GitHub Upload Pack
-=================================
-
-This file contains everything needed to upload your RESTful API project to GitHub quickly.
-
---------------------------------------------------
-1. README.md CONTENT
---------------------------------------------------
-
 # RESTful API - Post Management
 
 A RESTful web application built using Node.js, Express.js, EJS, UUID, and Method-Override.
